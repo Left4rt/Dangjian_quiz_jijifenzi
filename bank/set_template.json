@@ -1,0 +1,41 @@
+{
+  "id": "set1",
+  "title": "积极分子理论考试模拟题1",
+  "questions": {
+    "single": [
+      {
+        "type": "single",
+        "question": "示例题干，括号留空（  ）。",
+        "options": { "A": "选项A", "B": "选项B", "C": "选项C", "D": "选项D" },
+        "answer": "A",
+        "explanation": "解析（可选）。"
+      }
+    ],
+    "multi": [
+      {
+        "type": "multi",
+        "question": "示例多选题干（  ）。",
+        "options": { "A": "选项A", "B": "选项B", "C": "选项C", "D": "选项D" },
+        "answer": "ABC",
+        "explanation": "解析（可选）。"
+      }
+    ],
+    "tf": [
+      {
+        "type": "tf",
+        "question": "示例判断题干。",
+        "answer": "正确",
+        "explanation": "解析（可选）。"
+      }
+    ],
+    "fill": [
+      {
+        "type": "fill",
+        "question": "示例填空题干（  ）。",
+        "answer": "标准答案",
+        "aliases": ["可接受的其他写法"],
+        "explanation": "解析（可选）。"
+      }
+    ]
+  }
+}
