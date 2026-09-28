@@ -1,5 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-17",
-  "banks": []
+  "updatedAt": "2026-09-28",
+  "banks": [
+    { "id": "set1", "file": "set1.json", "title": "题库 2", "enabled": true },
+    { "id": "set2", "file": "set2.json", "title": "套题 1", "enabled": true },
+    { "id": "set3", "file": "set3.json", "title": "党课题 1", "enabled": true },
+    { "id": "set4", "file": "set4.json", "title": "党课题 2", "enabled": true },
+    { "id": "set5", "file": "set5.json", "title": "党课题 3", "enabled": true },
+    { "id": "set6", "file": "set6.json", "title": "党课题 4", "enabled": true },
+    { "id": "set7", "file": "set7.json", "title": "党课题 2（补充）", "enabled": true },
+    { "id": "set8", "file": "set8.json", "title": "套题 3", "enabled": true },
+    { "id": "set9", "file": "set9.json", "title": "套题 2", "enabled": true }
+  ]
 }
