@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "updatedAt": "2026-09-28",
   "banks": [
-    { "id": "set1", "file": "set1.json", "title": "积极分子题库1", "enabled": true }，
+    { "id": "set1", "file": "set1.json", "title": "积极分子题库1", "enabled": true },
     { "id": "set2", "file": "set2.json", "title": "积极分子题库2", "enabled": true }
   ]
 }
